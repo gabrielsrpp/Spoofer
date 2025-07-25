@@ -8,7 +8,8 @@
 
 ## 🖼️ Interface
 
-![Interface do Spoofer](coloque-o-nome-do-arquivo-aqui.png)
+![Interface do Spoofer](<img width="564" height="406" alt="image" src="https://github.com/user-attachments/assets/49e93762-cd51-417a-a6da-86bbf8b076d4" />
+)
 
 ---
 
