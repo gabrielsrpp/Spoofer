@@ -8,7 +8,7 @@
 
 ## 🖼️ Interface
 
-(<img width="564" height="406" alt="image" src="https://github.com/user-attachments/assets/926d4bb9-4d42-439a-a225-bc660a120417" />)
+<img width="564" height="406" alt="image" src="https://github.com/user-attachments/assets/926d4bb9-4d42-439a-a225-bc660a120417" />
 
 ---
 
