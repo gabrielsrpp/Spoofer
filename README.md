@@ -8,7 +8,8 @@
 
 ## 🖼️ Interface
 
-<img width="564" height="406" alt="image" src="https://github.com/user-attachments/assets/926d4bb9-4d42-439a-a225-bc660a120417" />
+<img width="603" height="413" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/738e97f5-1c90-4dcf-b4bf-ec96162b80e7" />
+
 
 ---
 
